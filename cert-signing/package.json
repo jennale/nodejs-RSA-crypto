@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "big-integer": "^1.6.25",
+    "yargs": "^10.0.3"
+  }
+}
